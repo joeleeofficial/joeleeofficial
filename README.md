@@ -17,18 +17,28 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 ## Useful Links
 
 > [My Website](https://www.joelee.ga)
+
 > [Facebook](https://fb.com/joelee2008)
+
 > [Instagram](https://Instagram.com/cheeyong_08)
+
 > [Add Me In Discord](https://www.joelee.ga/discord)
+
 ## Server That I Owned 
 
 > [THE LEGENDZ BRWL STARS](https://discord.gg/MpdByee)
+
 > [ITS JOE TIME](https://discord.gg/eCFNU7m)
+
 > [SHARD'S LULU](https://discord.gg/f6WTfguWP4)
+
 ## Projects That I Owned
 
+
 > [Dismega](https://www.disme.ga) - A Link Shortener Service
+
 > [Shards Bot](https://www.shards.ga) - An Awesome Discord Music Bot
+
 > [Uptoves](https://www.uptoves.ga) - Cool Community
 
 ## My Status
