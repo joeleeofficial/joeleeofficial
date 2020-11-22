@@ -9,8 +9,8 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 - 🤔 I’m looking for help with Free Domains
 - 💬 Ask me about How To Create Shorten Links
 - 📫 How to reach me: joelee.official.com@gmail.com
-- 😄 Pronouns: Joe
-- ⚡ Fun fact: Joe Please Joe 
+- 😄 Pronouns: J - O - E Joe
+- ⚡ Fun fact: Joe Please Respect Joe 
 
 
 
