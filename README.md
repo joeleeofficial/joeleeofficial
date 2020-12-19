@@ -44,100 +44,23 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 
 ## Discord Status
 
-<style>.card {
-    background-color: rgb(36,36,33);
-    width: 250px;
-    border-radius: 5px;
-}
-
-.adjust {
-    padding: 16px;
-}
-
-.text-white {
-    font-size: 16px;
-    margin-top: 10px;
-    font-weight: 500;
-}
-.second {
-    padding: 9px;
-    padding-right: 0px;
-    background-color: #2f3136;
-    width: 250;
-}
-
-.third {
-    padding: 9px;
-    padding-right: 0px;
-    background-color: #7289da;
-    width: 250;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
-}
-.text-social {
-    color: white;
-    text-align: left;
-    text-align: left;
-    font-weight: 700;
-    text-transform: uppercase;
-    font-size: 10px;
-    margin-bottom: 0px;
-    letter-spacing: 1.3px;
-}
-
-.social {
-    float: left;
-    margin: 14px;
-}
-
-.youtube {
-    margin-left: 5px;
-}
-
-.btn {
-    height: 60px;
-    width: 200px;
-    margin: 0rem;
-    padding: 0;
-    border: none;
-    box-shadow: none;
-    float: left;
-    border-radius: 5px;
-    margin-top: 5px;
-    text-transform: none;
-}
-
-.text-server {
-    font-size: 16px;
-    margin-top: 16px;
-    font-weight: 500;
-    color: #fff;
-    float: left;
-}</style>
+<table>
+    <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
-    <!-- Google Fonts -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
-    <!-- Bootstrap core CSS -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Material Design Bootstrap -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
-    <!-- main.css -->
-    <link rel="stylesheet" href="../style.css">
-    <!--site Title-->
-    <title>Discord Profile Card</title>
+    <link rel="stylesheet" href="//profile.githuber.repl.co/style.css">
   </head>
   <body>
 <br>
 <br>
 <div class="container">
     <center>
-<!--First-->
 
 <div class="card">
     <div class="adjust">
@@ -164,6 +87,7 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 </a>
     </div>
 
+
     <div class="card-body third">
     <p class="text-social">Join Our Server</p>
     <button type="button" onclick="location.href='https://discord.gg/qQN7YdE';" class="btn">
@@ -173,12 +97,16 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
     </div>
     </center>
 </div>
+ 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
   </body>
 </html>
 
+    
+    
+    </table>
 
 
 ## My Status
