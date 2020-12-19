@@ -32,6 +32,9 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 
 > [SHARD'S LULU](https://discord.gg/f6WTfguWP4)
 
+> [Day Dreamers](https://discord.gg/hZMCwDXfQb)
+
+
 ## Projects That I Owned
 
 
@@ -47,10 +50,11 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 
 <table>
   <tr>
-    <td align="center" style="padding=0;width=50%;">
+    <center>
+    <td align="center" style="padding=0;width=30%;">
       <img align="center" style="padding=0;" src="./discord.png" />
     </td>
-    
+    </center>
   </tr>
 </table>
 
