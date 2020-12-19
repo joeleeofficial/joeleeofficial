@@ -45,19 +45,20 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 > [Uptoves](https://www.uptoves.ga) - Cool Community
 
 
+## Social Media
 
-## Discord Status
-
-<table>
-  <tr>
-    <center>
-    <td align="center" style="padding=0;width=30%;">
-      <img align="center" style="padding=0;" src="./discord.png" />
-    </td>
-    </center>
-  </tr>
-</table>
-
+<a href="https://youtube.com/dbdandmore">
+    <img src="https://cdn.discordapp.com/attachments/591157769181069332/752117422483308544/youtube.png" alt="youtube icon" class="social youtube" height="40" width="40">
+</a>
+<a href="https://github.com/joeleeofficial">
+    <img src="https://discordapp.com/assets/5d69e29f0d71aaa04ed9725100199b4e.png" alt="github icon" class="social youtube" height="40" width="40">
+</a>
+<a href="https://twitter.com/itsjoetime2008">
+    <img src="https://discordapp.com/assets/4662875160dc4c56954003ebda995414.png" alt="twitter icon" class="social youtube" height="40" width="40">
+</a>
+<a href="https://instagram.com/cheeyong08">
+    <img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="instagram icon" class="social youtube" height="40" width="40">
+</a>
 
 
 
