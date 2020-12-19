@@ -4,13 +4,10 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 
 
 
-- 🔭 I’m currently working at Home
 - 🌱 I’m currently learning How To Code 
 - 🤔 I’m looking for help with Free Domains
-- 💬 Ask me about How To Create Shorten Links
 - 📫 How to reach me: joelee.official.com@gmail.com
 - 😄 Pronouns: J - O - E Joe
-- ⚡ Fun fact: Joe Please Respect Joe 
 
 
 
@@ -60,10 +57,7 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
     <img src="https://www.freepnglogos.com/uploads/instagram-logo-png-transparent-0.png" alt="instagram icon" class="social youtube" height="40" width="40">
 </a>
 
-<button type="button" onclick="location.href='https://discord.gg/hZMCwDXfQb';" class="btn">
-<img src="https://cdn.discordapp.com/icons/762219269093982208/941207feae8bfc89d7a0ff5716bc878d.png" class="rounded-circle social" width="40px" height="40px">
-<p class="text-server"> Day Dreamers</p>
-</button>
+
 
 ## My Status
 
