@@ -48,7 +48,7 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://profile.githuber.repl.co" />
+      <img align="center" style="padding=0;" src="./discord.png" />
     </td>
     
   </tr>
