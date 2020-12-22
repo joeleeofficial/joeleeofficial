@@ -100,7 +100,7 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
    
    
   <td align="center" style="padding=5;width=50%;">
-        <img align="center" style="padding=0;" src="https://readme-status-virid.vercel.app/api/pin/?username=joeleeofficial&repo=joeleeofficial" />
+        <img align="center" style="padding=0;" src="https://readme-status-virid.vercel.app/api/pin/?username=joeleeofficial&repo=discord-giveaway-bot" />
 
    </td>
   </tr>
