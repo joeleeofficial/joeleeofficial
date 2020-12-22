@@ -80,7 +80,8 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
     </td>
   </tr>
 </table>
-
+<!--END_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## Pins
 <table>
