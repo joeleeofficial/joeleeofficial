@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Joe Lee</h1>
 <h3 align="center">A Person Who Live In Earth</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joeleeofficial&label=Profile%20views&color=0e75b6&style=flat" alt="joeleeofficial" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joeleeofficial&label=Profile%20views&color=0e75b6&style=flat" alt="joeleeofficial" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joeleeofficial" alt="joeleeofficial" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/itsjoetime2008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itsjoetime2008" height="30" width="40" /></a>
 <a href="https://fb.com/joelee2008" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="joelee2008" height="30" width="40" /></a>
 <a href="https://instagram.com/cheeyong_08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cheeyong_08" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chee yong lee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="chee yong lee" height="30" width="40" /></a>
-<a href="https://discord.gg/MpdByee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="MpdByee" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCexNfX9LMZtzuFepKzjt36g" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Chee Yong Lee" height="30" width="40" /></a>
+<a href="https://discord.gg/hZMCwDXfQb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Day Dreamers" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
