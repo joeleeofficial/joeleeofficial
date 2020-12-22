@@ -26,8 +26,7 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 > [THE LEGENDZ BRWL STARS](https://discord.gg/MpdByee)  
 > ![Discord](https://img.shields.io/discord/705036476144156772?label=THE%20LEGENDZ&logo=Discord&style=for-the-badge)
 
-> [ITS JOE TIME](https://discord.gg/eCFNU7m)
-> ![Discord](https://img.shields.io/discord/702721342650318908?label=Its%20Joe%20Time&logo=Discord&style=for-the-badge)
+> [ITS JOE TIME](https://discord.gg/eCFNU7m) > ![Discord](https://img.shields.io/discord/702721342650318908?label=Its%20Joe%20Time&logo=Discord&style=for-the-badge)
 
 
 > [SHARD'S LULU](https://discord.gg/f6WTfguWP4)
