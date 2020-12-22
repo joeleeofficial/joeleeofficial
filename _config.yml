@@ -1,5 +1,18 @@
 title: @joeleeofficial
 description: Profile
-author: Joe Lee
-lang: en
 theme: jekyll-theme-cayman
+
+author:
+  name:       Joe
+  url:        https://joeleeofficial.github.io/joeleeofficial
+
+gems:
+  - jekyll-paginate
+---
+permalink: /404.html
+---
+github:
+  is_project_page: false
+header_pages:
+  - about.md
+  - portfolio.md
