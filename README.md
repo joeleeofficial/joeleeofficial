@@ -83,7 +83,7 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-joelee.vercel.app/" alt="JoeLee Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-joelee.vercel.app/api/spotify-playing" alt="JoeLee Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <!--START_SECTION:activity-->
 
