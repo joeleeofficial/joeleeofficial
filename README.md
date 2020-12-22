@@ -73,8 +73,23 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 </table>
 
 
-## My Repo
+## Pins
 <table>
+  <tr>
+    <td align="center" style="padding=5;width=50%;">
+            <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=joeleeofficial&repo=joeleeofficial" />
+
+   </td>
+   
+   
+  <td align="center" style="padding=5;width=50%;">
+        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=joeleeofficial&repo=joeleeofficial" />
+
+   </td>
+  </tr>
+    </table>
+    
+    <table>
   <tr>
     <td align="center" style="padding=5;width=50%;">
             <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=joeleeofficial&repo=joeleeofficial" />
