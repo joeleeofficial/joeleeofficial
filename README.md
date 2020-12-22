@@ -84,7 +84,7 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-omega-seven.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
+[<img src="https://spotify-now-playing-omega-seven.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 <!--START_SECTION:activity-->
 
 
