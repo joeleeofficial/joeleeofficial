@@ -82,9 +82,7 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 </table>
 
 
-### Spotify Playing 🎧
 
-<img src="https://spotify-now-playing-omega-seven.vercel.app/api/spotify-playing" width="350" />
 <!--START_SECTION:activity-->
 
 
