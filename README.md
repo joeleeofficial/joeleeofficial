@@ -73,4 +73,14 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 </table>
 
 
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=joeleeofficial&langs_count=8)](https://github.com/joeleeofficial)
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=joeleeofficial&repo=joeleeofficial)](https://github.com/joeleeofficial/joeleeofficial)
+    </td>
+  </tr>
+</table>
 
