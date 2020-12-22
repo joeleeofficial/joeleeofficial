@@ -27,14 +27,14 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 > ![Discord](https://img.shields.io/discord/705036476144156772?label=THE%20LEGENDZ&logo=Discord&style=for-the-badge)
 
 > [ITS JOE TIME](https://discord.gg/eCFNU7m) 
-> ![Discord](https://img.shields.io/discord/702721342650318908?label=Its%20Joe%20Time&logo=Discord&style=for-the-badge)
+>  ![Discord](https://img.shields.io/discord/702721342650318908?label=Its%20Joe%20Time&logo=Discord&style=for-the-badge)
 
 
 > [SHARD'S LULU](https://discord.gg/f6WTfguWP4)
-> ![Discord](https://img.shields.io/discord/775640789455470603?label=SHARD%27S%20LULU&logo=Discord&style=for-the-badge)
+>  ![Discord](https://img.shields.io/discord/775640789455470603?label=SHARD%27S%20LULU&logo=Discord&style=for-the-badge)
 
 > [Day Dreamers](https://discord.gg/hZMCwDXfQb)
-> ![Discord](https://img.shields.io/discord/762219269093982208?label=DAY%20DREAMERS&logo=Discord&style=for-the-badge)
+>  ![Discord](https://img.shields.io/discord/762219269093982208?label=DAY%20DREAMERS&logo=Discord&style=for-the-badge)
 
 
 ## Projects That I Owned
