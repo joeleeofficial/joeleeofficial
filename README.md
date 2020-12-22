@@ -73,15 +73,7 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 </table>
 
 
-<table>
-  <tr>
-    <td align="center" style="padding=0;width=50%;">
-        <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeleeofficial&langs_count=8" />
-    </td>
-    <td align="center" style="padding=0;width=50%;">
-                <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=joeleeofficial&repo=joeleeofficial" />
+  <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeleeofficial&langs_count=8" />
+    <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/pin/?username=joeleeofficial&repo=joeleeofficial" />
 
-    </td>
-  </tr>
-</table>
 
