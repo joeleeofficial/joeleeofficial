@@ -82,7 +82,7 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 </table>
 
 <a href="https://now-playing-joelee.vercel.app/now-playing?open">
-    <img src="https://now-playing-joelee.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+  <img src="https://now-playing-joelee.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 <!--START_SECTION:activity-->
 
