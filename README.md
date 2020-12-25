@@ -8,7 +8,7 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 - 🤔 I’m looking for help with Free Domains
 - 📫 How to reach me: joelee.official.com@gmail.com
 - 😄 Pronouns: J - O - E Joe
-
+- 🔗 [Click This Link To See My Discord Profile](https://discord.com/users/469091175517782018)
 
 
 ## Useful Links
