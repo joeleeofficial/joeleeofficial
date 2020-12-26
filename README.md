@@ -90,7 +90,7 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
 
 <!--END_SECTION:activity-->
 
-## Pins
+### Pinned Projects
 <table>
   <tr>
     <td align="center" style="padding=5;width=50%;">
@@ -108,9 +108,10 @@ I am a person who lived in earth. A person who learns on earth. A person who tak
     
    <table>
   <tr>
+     <a href = "https://github.com/joeleeofficial/discord-oauth-example">
     <td align="center" style="padding=5;width=50%;">
-            <img align="center" style="padding=0;" src="https://readme-status-virid.vercel.app/api/pin/?username=joeleeofficial&repo=joeleeofficial" />
-
+            <img align="center" style="padding=0;" src="https://readme-status-virid.vercel.app/api/pin/?username=joeleeofficial&repo=discord-oauth-example" />
+     </a>
    </td>
    
    
