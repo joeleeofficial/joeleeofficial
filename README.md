@@ -1,6 +1,6 @@
 ### Hi There, I am Joe Lee
 
-I am a person who lived in earth. A person who learns on earth. A person who take cares of many [Discord](https://discord.com) Servers.
+I am a person who lived in earth. A person who learns on earth.
 
 
 
