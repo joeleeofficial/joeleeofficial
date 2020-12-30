@@ -3,7 +3,7 @@
 I am "In" The Earth.
 
 
-- 🌱 I’m currently learning How To Code 
+- 🌱 I’m currently learning How To Become A "Real" Programmer  
 - 🤔 I’m looking for help with Free Domains
 - 📫 How to reach me: [By Email](mailto:tojoeleeofficial@gmail.com)
 - 😄 Pronouns: J - O - E Joe
