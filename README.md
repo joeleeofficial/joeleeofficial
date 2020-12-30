@@ -1,7 +1,6 @@
 ### Hi There, I am Joe Lee
 
-I am a person who lived in earth. A person who learns on earth.
-
+I am "In" The Earth.
 
 
 - 🌱 I’m currently learning How To Code 
