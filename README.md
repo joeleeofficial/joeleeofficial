@@ -115,7 +115,7 @@ I am "In" The Earth.
    
    
   <td align="center" style="padding=5;width=50%;">
-        <img align="center" style="padding=0;" src="https://readme-status-virid.vercel.app/api/pin/?username=joeleeofficial&repo=joeleeofficial" />
+        <img align="center" style="padding=0;" src="https://readme-status-virid.vercel.app/api/pin/?username=joeleeofficial&repo=export-varaibles" />
 
    </td>
   </tr>
