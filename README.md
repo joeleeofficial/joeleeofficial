@@ -72,10 +72,10 @@ I am "In" The Earth.
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://readme-status-virid.vercel.app/api/?username=joeleeofficial&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/?username=joeleeofficial&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://readme-status-virid.vercel.app/api/top-langs/?username=joeleeofficial&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&hide=lua" />
+      <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/top-langs/?username=joeleeofficial&layout=compact&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true&hide=lua" />
     </td>
   </tr>
 </table>
@@ -93,13 +93,13 @@ I am "In" The Earth.
 <table>
   <tr>
     <td align="center" style="padding=5;width=50%;">
-            <img align="center" style="padding=0;" src="https://readme-status-virid.vercel.app/api/pin/?username=joeleeofficial&repo=joeleeofficial" />
+            <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/pin/?username=joeleeofficial&repo=joeleeofficial" />
 
    </td>
    
    
   <td align="center" style="padding=5;width=50%;">
-        <img align="center" style="padding=0;" src="https://readme-status-virid.vercel.app/api/pin/?username=joeleeofficial&repo=discord-giveaway-bot" />
+        <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/pin/?username=joeleeofficial&repo=discord-giveaway-bot" />
 
    </td>
   </tr>
@@ -109,13 +109,13 @@ I am "In" The Earth.
   <tr>
      <a href = "https://github.com/joeleeofficial/discord-oauth-example">
     <td align="center" style="padding=5;width=50%;">
-            <img align="center" style="padding=0;" src="https://readme-status-virid.vercel.app/api/pin/?username=joeleeofficial&repo=discord-oauth-example" />
+            <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/pin/?username=joeleeofficial&repo=discord-oauth-example" />
      </a>
    </td>
    
    
   <td align="center" style="padding=5;width=50%;">
-        <img align="center" style="padding=0;" src="https://readme-status-virid.vercel.app/api/pin/?username=joeleeofficial&repo=export-variables" />
+        <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/pin/?username=joeleeofficial&repo=export-variables" />
 
    </td>
   </tr>
