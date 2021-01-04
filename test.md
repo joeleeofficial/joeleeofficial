@@ -1,14 +1,9 @@
 <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-           <!-- <link rel="stylesheet" href="photo.css">-->
-           <script type="text/javascript">var countDownDate = new Date("Jan 1, 2022").getTime();
-
+<script type="text/javascript">var countDownDate = new Date("Jan 1, 2022").getTime();
 var x = setInterval(function() {
-
-  var now = new Date().getTime();
-    
-  var distance = countDownDate - now;
-    
-  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+var now = new Date().getTime();
+var distance = countDownDate - now;
+var days = Math.floor(distance / (1000 * 60 * 60 * 24));
   var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
   var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
@@ -19,10 +14,6 @@ var x = setInterval(function() {
   + minutes + "m " + seconds + "s "  + " 🎉";
 
     
-  if (distance < 0) {
-    clearInterval(x);
-    document.getElementById("demo").innerHTML = "00d 00h 00m 00s";
-  }
 }, 1000);</script>
 <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
