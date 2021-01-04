@@ -39,7 +39,7 @@ I am "In" The Earth.
 >
 > ![Discord](https://img.shields.io/discord/762219269093982208?label=DAY%20DREAMERS&logo=Discord&style=for-the-badge)
 
-> ![2022](https://joeleeofficial.github.io/to-2022/image.svg)
+> ![2022](https://joeleeofficial.github.io/to-2022/image)
 
 ## Projects That I Owned
 
