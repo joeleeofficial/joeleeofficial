@@ -8,9 +8,7 @@ I am "In" The Earth.
 - 📫 How to reach me: [By Email](mailto:tojoeleeofficial@gmail.com)
 - 😄 Pronouns: J - O - E Joe
 - 🔗 [Click This Link To See My Discord Profile](https://discord.com/users/469091175517782018)
-<div style="border: 1px solid gray; border-radius: 10px; overflow: hidden; position: relative; height: 300px;">
-[iframe src="http://natsulus.github.io/Discord-iFrame-Widget/index.html?title=Server Title&serverID=123456789&theme=dark&invite=true" scrolling="no" height="300px" width="100%" frameborder="0"]
-</div>
+
 
 ## Useful Links
 
