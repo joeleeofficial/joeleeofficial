@@ -20,6 +20,42 @@ I am "In" The Earth.
 
 > [Add Me In Discord](https://www.joelee.ga/discord)
 
+
+### Pinned Projects
+
+<table>
+  <tr>
+    <td align="center" style="padding=5;width=50%;">
+            <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/pin/?username=joeleeofficial&repo=joeleeofficial" />
+
+   </td>
+   
+   
+  <td align="center" style="padding=5;width=50%;">
+        <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/pin/?username=joeleeofficial&repo=discord-giveaway-bot" />
+
+   </td>
+  </tr>
+    </table>
+    
+   <table>
+  <tr>
+     <a href = "https://github.com/joeleeofficial/discord-oauth-example">
+    <td align="center" style="padding=5;width=50%;">
+            <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/pin/?username=joeleeofficial&repo=discord-oauth-example" />
+     </a>
+   </td>
+   
+   
+  <td align="center" style="padding=5;width=50%;">
+        <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/pin/?username=joeleeofficial&repo=export-variables" />
+
+   </td>
+  </tr>
+    </table>
+    
+    
+
 ## Server That I Owned 
 
 > [THE LEGENDZ BRWL STARS](https://discord.gg/MpdByee)  
@@ -89,34 +125,4 @@ I am "In" The Earth.
 
 <!--END_SECTION:activity-->
 
-### Pinned Projects
-<table>
-  <tr>
-    <td align="center" style="padding=5;width=50%;">
-            <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/pin/?username=joeleeofficial&repo=joeleeofficial" />
 
-   </td>
-   
-   
-  <td align="center" style="padding=5;width=50%;">
-        <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/pin/?username=joeleeofficial&repo=discord-giveaway-bot" />
-
-   </td>
-  </tr>
-    </table>
-    
-   <table>
-  <tr>
-     <a href = "https://github.com/joeleeofficial/discord-oauth-example">
-    <td align="center" style="padding=5;width=50%;">
-            <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/pin/?username=joeleeofficial&repo=discord-oauth-example" />
-     </a>
-   </td>
-   
-   
-  <td align="center" style="padding=5;width=50%;">
-        <img align="center" style="padding=0;" src="https://readme-status-50193zoih.vercel.app/api/pin/?username=joeleeofficial&repo=export-variables" />
-
-   </td>
-  </tr>
-    </table>
