@@ -81,9 +81,13 @@ I am "In" The Earth.
 
 > [Dismega](https://www.disme.ga) - A Link Shortener Service
 
-> [Shards Bot](https://www.shards.ga) - An Awesome Discord Music Bot
+> [Shards Bot](https://brawley.is-a.dev) - An Awesome Discord Bot That Does Many Things
 
 > [Uptoves](https://www.uptoves.ga) - Cool Community
+
+> [Finance.io](https://npmjs.com/finance.io) - An Npm Package That Can Get Stock Quote Data Easily
+
+> [discord-sender (under botstudios)](https://discord.is-a.dev) - An Npm Package That Can Make You A Better Life In Discord
 
 
 
