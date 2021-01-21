@@ -3,11 +3,13 @@
 I am "In" The Earth.
 
 
-```- 🌱 I’m currently learning How To Become A "Real" Programmer  
+```
+- 🌱 I’m currently learning How To Become A "Real" Programmer  
 - 🤔 I’m looking for help with Free Domains
 - 📫 How to reach me: [By Email](mailto:tojoeleeofficial@gmail.com)
 - 😄 Pronouns: J - O - E Joe
-- 🔗 [Click This Link To See My Discord Profile](https://discord.com/users/469091175517782018)```
+- 🔗 [Click This Link To See My Discord Profile](https://discord.com/users/469091175517782018)
+```
 
 
 ## Useful Links
