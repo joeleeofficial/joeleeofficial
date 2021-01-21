@@ -58,7 +58,7 @@ I am "In" The Earth.
 
 ## Server That I Owned 
 
-> [ THE LEGENDZ BRWL STARS ](https://discord.gg/MpdByee) [ ITS JOE TIME ](https://discord.gg/eCFNU7m) [ SHARD'S LULU ](https://discord.gg/f6WTfguWP4)[ Day Dreamers ](https://discord.gg/hZMCwDXfQb)
+> [ THE LEGENDZ BRWL STARS ](https://discord.gg/MpdByee) / [ ITS JOE TIME ](https://discord.gg/eCFNU7m) / [ SHARD'S LULU ](https://discord.gg/f6WTfguWP4) / [ Day Dreamers ](https://discord.gg/hZMCwDXfQb)
  
 
 <!--![Discord](https://img.shields.io/discord/705036476144156772?label=THE%20LEGENDZ&logo=Discord&style=for-the-badge)-->
