@@ -73,7 +73,7 @@ I am "In" The Earth.
 
 > [discord-sender (under BotStudios)](https://discord.is-a.dev) - An Npm Package That Can Make You A Better Life In Discord
 
-> [Giticlock (under Giticlock](https://timer.js.org) - An Awesome Web-Based Timer
+> [Giticlock (under Giticlock)](https://timer.js.org) - An Awesome Web-Based Timer
 
 
 
