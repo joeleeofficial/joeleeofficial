@@ -71,7 +71,9 @@ I am "In" The Earth.
 
 > [Finance.io](https://npmjs.com/finance.io) - An Npm Package That Can Get Stock Quote Data Easily
 
-> [discord-sender (under botstudios)](https://discord.is-a.dev) - An Npm Package That Can Make You A Better Life In Discord
+> [discord-sender (under BotStudios)](https://discord.is-a.dev) - An Npm Package That Can Make You A Better Life In Discord
+
+> [Giticlock (under Giticlock](https://timer.js.org) - An Awesome Web-Based Timer
 
 
 
