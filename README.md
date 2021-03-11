@@ -8,8 +8,8 @@ An Animal, En Egg [On My Discord Profile](https://discord.com/users/469091175517
 
 ### Discord Servers 
 
-[ `THE LEGENDZ` ](https://discord.gg/MpdByee) | [ `ITS JOE TIME` ](https://discord.gg/eCFNU7m)  | [ `Day Dreamers` ](https://discord.gg/hZMCwDXfQb)
- | ----------- | ------------ | ------------ |
+[ `THE LEGENDZ` ](https://discord.gg/MpdByee) | [ `ITS JOE TIME` ](https://discord.gg/eCFNU7m)  | [ `Day Dreamers` ](https://discord.gg/hZMCwDXfQb) | [ `Brawley Official` ](https://discord.gg/umCn3dEEMH)
+ | ----------- | ------------ | ------------ | ----------- |
 
 <!--![Discord](https://img.shields.io/discord/705036476144156772?label=THE%20LEGENDZ&logo=Discord&style=for-the-badge)-->
 <!--![Discord](https://img.shields.io/discord/702721342650318908?label=Its%20Joe%20Time&logo=Discord&style=for-the-badge)-->
