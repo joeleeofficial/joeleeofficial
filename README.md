@@ -1,9 +1,6 @@
 ### Hi There, I am Joe Lee
 
-I am "In" The Earth.
-
-- 📫 How to reach me: [By Email](mailto:tojoeleeofficial@gmail.com)
-- 🔗 [Click This Link To See My Discord Profile](https://discord.com/users/469091175517782018)
+An Animal, En Egg 🔗 [Click This Link To See My Discord Profile](https://discord.com/users/469091175517782018)
 
 
 
