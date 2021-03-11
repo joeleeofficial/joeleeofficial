@@ -4,6 +4,34 @@ An Animal, En Egg [On My Discord Profile](https://discord.com/users/469091175517
 
 
 
+
+
+### Discord Servers 
+
+[ `THE LEGENDZ` ](https://discord.gg/MpdByee) | [ `ITS JOE TIME` ](https://discord.gg/eCFNU7m)  | [ `Day Dreamers` ](https://discord.gg/hZMCwDXfQb)
+ | ----------- | ------------ | ------------ |
+
+<!--![Discord](https://img.shields.io/discord/705036476144156772?label=THE%20LEGENDZ&logo=Discord&style=for-the-badge)-->
+<!--![Discord](https://img.shields.io/discord/702721342650318908?label=Its%20Joe%20Time&logo=Discord&style=for-the-badge)-->
+<!--![Discord](https://img.shields.io/discord/775640789455470603?label=SHARD%27S%20LULU&logo=Discord&style=for-the-badge)-->
+<!--![Discord](https://img.shields.io/discord/762219269093982208?label=DAY%20DREAMERS&logo=Discord&style=for-the-badge)-->
+
+## Projects That I Owned
+
+
+> [Dismega](https://www.disme.ga) - A Link Shortener Service
+
+> [Jet Brawley](https://brawley.is-a.dev) - An Awesome Discord Bot That Does Many Things
+
+> [Finance.io](https://npmjs.com/finance.io) - An Npm Package That Can Get Stock Quote Data Easily
+
+> [discord-sender (under BotStudios)](https://discord.is-a.dev) - An Npm Package That Can Make You A Better Life In Discord
+
+> [Giticlock (under Giticlock)](https://timer.js.org) - An Awesome Web-Based Timer
+
+> [BrawlBio](https://bs.is-a.dev) - A Place Where You Can Spice Up Your BrawlStars Profile By Creating A Vanity Link And Share It With Your Friends And Family 
+
+
 ### Pinned Projects
 
 <table>
@@ -38,34 +66,8 @@ An Animal, En Egg [On My Discord Profile](https://discord.com/users/469091175517
     </table>
     
     
-
-### Discord Servers 
-
-[ `THE LEGENDZ` ](https://discord.gg/MpdByee) | [ `ITS JOE TIME` ](https://discord.gg/eCFNU7m)  | [ `Day Dreamers` ](https://discord.gg/hZMCwDXfQb)
- | ----------- | ------------ | ------------ |
-
-<!--![Discord](https://img.shields.io/discord/705036476144156772?label=THE%20LEGENDZ&logo=Discord&style=for-the-badge)-->
-<!--![Discord](https://img.shields.io/discord/702721342650318908?label=Its%20Joe%20Time&logo=Discord&style=for-the-badge)-->
-<!--![Discord](https://img.shields.io/discord/775640789455470603?label=SHARD%27S%20LULU&logo=Discord&style=for-the-badge)-->
-<!--![Discord](https://img.shields.io/discord/762219269093982208?label=DAY%20DREAMERS&logo=Discord&style=for-the-badge)-->
-
-## Projects That I Owned
-
-
-> [Dismega](https://www.disme.ga) - A Link Shortener Service
-
-> [Jet Brawley](https://brawley.is-a.dev) - An Awesome Discord Bot That Does Many Things
-
-> [Finance.io](https://npmjs.com/finance.io) - An Npm Package That Can Get Stock Quote Data Easily
-
-> [discord-sender (under BotStudios)](https://discord.is-a.dev) - An Npm Package That Can Make You A Better Life In Discord
-
-> [Giticlock (under Giticlock)](https://timer.js.org) - An Awesome Web-Based Timer
-
-> [BrawlBio](https://bs.is-a.dev) - A Place Where You Can Spice Up Your BrawlStars Profile By Creating A Vanity Link And Share It With Your Friends And Family 
-
-
-
+    
+    
 ## Social Media
 
 <a href="https://www.youtube.com/channel/UCexNfX9LMZtzuFepKzjt36g">
