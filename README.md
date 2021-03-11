@@ -39,9 +39,9 @@ An Animal, En Egg [On My Discord Profile](https://discord.com/users/469091175517
     
     
 
-## Server That I Owned 
+### Discord Servers 
 
-[ THE LEGENDZ ](https://discord.gg/MpdByee) | [ ITS JOE TIME ](https://discord.gg/eCFNU7m)  | [ Day Dreamers ](https://discord.gg/hZMCwDXfQb)
+[ `THE LEGENDZ` ](https://discord.gg/MpdByee) | [ `ITS JOE TIME` ](https://discord.gg/eCFNU7m)  | [ `Day Dreamers` ](https://discord.gg/hZMCwDXfQb)
  | ----------- | ------------ | ------------ |
 
 <!--![Discord](https://img.shields.io/discord/705036476144156772?label=THE%20LEGENDZ&logo=Discord&style=for-the-badge)-->
