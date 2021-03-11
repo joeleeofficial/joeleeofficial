@@ -2,17 +2,9 @@
 
 I am "In" The Earth.
 
-
-- 🌱 I’m currently learning How To Become A "Real" Programmer  
 - 📫 How to reach me: [By Email](mailto:tojoeleeofficial@gmail.com)
-- 😄 Pronouns: J - O - E Joe
 - 🔗 [Click This Link To See My Discord Profile](https://discord.com/users/469091175517782018)
 
-
-## Useful Links
-
-| [My Website](https://www.joelee.ga)  | [Facebook](https://fb.com/joelee2008) | [Instagram](https://Instagram.com/cheeyong_08) |
-| ------------- | ------------- | ----------------- | 
 
 
 ### Pinned Projects
@@ -52,7 +44,7 @@ I am "In" The Earth.
 
 ## Server That I Owned 
 
-> [ THE LEGENDZ BRWL STARS ](https://discord.gg/MpdByee) / [ ITS JOE TIME ](https://discord.gg/eCFNU7m) / [ SHARD'S LULU ](https://discord.gg/f6WTfguWP4) / [ Day Dreamers ](https://discord.gg/hZMCwDXfQb)
+> [ THE LEGENDZ ](https://discord.gg/MpdByee) / [ ITS JOE TIME ](https://discord.gg/eCFNU7m) / [ Day Dreamers ](https://discord.gg/hZMCwDXfQb)
  
 
 <!--![Discord](https://img.shields.io/discord/705036476144156772?label=THE%20LEGENDZ&logo=Discord&style=for-the-badge)-->
@@ -65,15 +57,15 @@ I am "In" The Earth.
 
 > [Dismega](https://www.disme.ga) - A Link Shortener Service
 
-> [Shards Bot](https://brawley.is-a.dev) - An Awesome Discord Bot That Does Many Things
-
-> [Uptoves](https://www.uptoves.ga) - Cool Community
+> [Jet Brawley](https://brawley.is-a.dev) - An Awesome Discord Bot That Does Many Things
 
 > [Finance.io](https://npmjs.com/finance.io) - An Npm Package That Can Get Stock Quote Data Easily
 
 > [discord-sender (under BotStudios)](https://discord.is-a.dev) - An Npm Package That Can Make You A Better Life In Discord
 
 > [Giticlock (under Giticlock)](https://timer.js.org) - An Awesome Web-Based Timer
+
+> [BrawlBio](https://bs.is-a.dev) - A Place Where You Can Spice Up Your BrawlStars Profile By Creating A Vanity Link And Share It With Your Friends And Family 
 
 
 
